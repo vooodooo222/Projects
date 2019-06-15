@@ -1,0 +1,9 @@
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardFTest.dll
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardFTest.pdb
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardF.dll
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardF.pdb
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardF_Accessor.dll
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\bin\Debug\BoardF_Accessor.pdb
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\obj\Debug\BoardFTest.csprojResolveAssemblyReference.cache
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\obj\Debug\BoardFTest.dll
+C:\Users\Дом\YandexDisk\Projects\SolutionGameF\SolutionGameF\BoardFTest\obj\Debug\BoardFTest.pdb
